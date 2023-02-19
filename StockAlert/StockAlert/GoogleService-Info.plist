@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>245071448152-gbv4msoijh3pgpifrr44c78iv2l8no9n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.245071448152-gbv4msoijh3pgpifrr44c78iv2l8no9n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDUHTpa-0IFQHz4plA3BynPWjp67pP3Dk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>245071448152</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>devinxclemons.StockAlert</string>
+	<key>PROJECT_ID</key>
+	<string>stockalert-2fcc2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stockalert-2fcc2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:245071448152:ios:10d6da736b4a1409ea222d</string>
+	<key>DATABASE_URL</key>
+	<string>https://stockalert-2fcc2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
